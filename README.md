@@ -1,4 +1,5 @@
 # KIDO
 Children Drawing Dataset
 
-The manuscript "Emotion Analysis of Children's Drawings" is under review. Upon its acceptance, the KIDO dataset will be made publicly available.
+
+[Download KIDO](https://drive.google.com/file/d/1Ip5HI3kqnZ0Lpc0jQKxl30IjHmksqkrf/view?usp=sharing).
