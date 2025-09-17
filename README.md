@@ -7,7 +7,7 @@ Children Drawing Dataset
 
 <pre>
 To cite KIDO dataset:
-@ARTICLE{11151239,
+@ARTICLE{KidoCiftciEtal2025,
   author={Çiftçi, Serdar and Karci, Hasari and Karaca, Neval and Söylemez, Büşra and Koçakoğlu, Halil},
   journal={IEEE Access}, 
   title={Emotion Analysis of Children’s Drawings}, 
