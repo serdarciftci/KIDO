@@ -13,7 +13,6 @@ To cite KIDO dataset:
   title={Emotion Analysis of Children’s Drawings}, 
   year={2025},
   volume={13},
-  number={},
   pages={159730-159748},
   doi={10.1109/ACCESS.2025.3606359}
 }
